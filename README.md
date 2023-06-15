@@ -1,0 +1,2 @@
+# BitComTest
+Bitcom test assessment 
